@@ -2,7 +2,7 @@
 
 As described in our paper, we made our user study prototype and statistical measurements of facial expressions publicly available on this site.
 
-<u>For researcher who interested in our work (Data and networks), please sign M-FEI_models_agreement.pdf and contact Xingran Ruan (xruan@ed.ac.uk) for password.</u>
+**For researcher who interested in our work (Data and networks), please sign M-FEI_models_agreement.pdf and contact Xingran Ruan (xruan@ed.ac.uk) for password.**
 
 Here’s a structured description based on the spreadsheet:
 
